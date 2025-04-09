@@ -4,4 +4,7 @@
     "rewrite": "/index.html",
     "exclude": ["/.well-known/*"]
   }
+  "mimeTypes": {
+    ".well-known/com.apple.remotemanagement": "text/plain"
+  }
 }
