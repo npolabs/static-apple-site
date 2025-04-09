@@ -4,6 +4,6 @@
     "exclude": ["/.well-known/*"]
   },
   "mimeTypes": {
-    "remotemanagement": "text/plain"
+    ".remotemanagement": "application/json"
   }
 }
